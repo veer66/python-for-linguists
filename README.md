@@ -1,4 +1,6 @@
-# Python for linguists
+# Lingua-Lab
+
+Lingua-Lab is a collection of Jupyter Notebooks for onboarding people to basic NLP tools.
 
 ## Prerequisites
 
@@ -8,7 +10,7 @@
 
 * Google account
 
-## Local
+### Local
 
 * Python
 * Jupyter Lab
