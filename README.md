@@ -2,5 +2,13 @@
 
 ## Prerequisites
 
-* Google account
 * Web browser, e.g., Chrome, Firefox.
+
+### Google Colab
+
+* Google account
+
+## Local
+
+* Python
+* Jupyter Lab
